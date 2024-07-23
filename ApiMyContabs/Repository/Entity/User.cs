@@ -3,10 +3,8 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace ApiMyContabs.Repository.Entity
 {
-    [Table("t_user")]
     public class User
     {
-        [Key]
         public int Id { get; set; }
         public string? Name { get; set; }
         public string? Email { get; set; }

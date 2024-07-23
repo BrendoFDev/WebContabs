@@ -3,24 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\draka\\source\\repos\\WebContabs\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{15F44A17-962C-4A47-99F0-49A9213C7FD0}|ApiMyContabs\\ApiMyContabs.csproj|c:\\users\\draka\\source\\repos\\webcontabs\\apimycontabs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15F44A17-962C-4A47-99F0-49A9213C7FD0}|ApiMyContabs\\ApiMyContabs.csproj|solutionrelative:apimycontabs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{15F44A17-962C-4A47-99F0-49A9213C7FD0}|ApiMyContabs\\ApiMyContabs.csproj|c:\\users\\draka\\source\\repos\\webcontabs\\apimycontabs\\repository\\entity\\userinvestiment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F44A17-962C-4A47-99F0-49A9213C7FD0}|ApiMyContabs\\ApiMyContabs.csproj|solutionrelative:apimycontabs\\repository\\entity\\userinvestiment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15F44A17-962C-4A47-99F0-49A9213C7FD0}|ApiMyContabs\\ApiMyContabs.csproj|c:\\users\\draka\\source\\repos\\webcontabs\\apimycontabs\\repository\\connectioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15F44A17-962C-4A47-99F0-49A9213C7FD0}|ApiMyContabs\\ApiMyContabs.csproj|solutionrelative:apimycontabs\\repository\\connectioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{15F44A17-962C-4A47-99F0-49A9213C7FD0}|ApiMyContabs\\ApiMyContabs.csproj|c:\\users\\draka\\source\\repos\\webcontabs\\apimycontabs\\repository\\mapping\\userinvestimentmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F44A17-962C-4A47-99F0-49A9213C7FD0}|ApiMyContabs\\ApiMyContabs.csproj|solutionrelative:apimycontabs\\repository\\mapping\\userinvestimentmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15F44A17-962C-4A47-99F0-49A9213C7FD0}|ApiMyContabs\\ApiMyContabs.csproj|c:\\users\\draka\\source\\repos\\webcontabs\\apimycontabs\\repository\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15F44A17-962C-4A47-99F0-49A9213C7FD0}|ApiMyContabs\\ApiMyContabs.csproj|solutionrelative:apimycontabs\\repository\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{15F44A17-962C-4A47-99F0-49A9213C7FD0}|ApiMyContabs\\ApiMyContabs.csproj|c:\\users\\draka\\source\\repos\\webcontabs\\apimycontabs\\repository\\entity\\userbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F44A17-962C-4A47-99F0-49A9213C7FD0}|ApiMyContabs\\ApiMyContabs.csproj|solutionrelative:apimycontabs\\repository\\entity\\userbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15F44A17-962C-4A47-99F0-49A9213C7FD0}|ApiMyContabs\\ApiMyContabs.csproj|c:\\users\\draka\\source\\repos\\webcontabs\\apimycontabs\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15F44A17-962C-4A47-99F0-49A9213C7FD0}|ApiMyContabs\\ApiMyContabs.csproj|solutionrelative:apimycontabs\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{15F44A17-962C-4A47-99F0-49A9213C7FD0}|ApiMyContabs\\ApiMyContabs.csproj|c:\\users\\draka\\source\\repos\\webcontabs\\apimycontabs\\repository\\mapping\\userbillmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F44A17-962C-4A47-99F0-49A9213C7FD0}|ApiMyContabs\\ApiMyContabs.csproj|solutionrelative:apimycontabs\\repository\\mapping\\userbillmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15F44A17-962C-4A47-99F0-49A9213C7FD0}|ApiMyContabs\\ApiMyContabs.csproj|c:\\users\\draka\\source\\repos\\webcontabs\\apimycontabs\\repository\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15F44A17-962C-4A47-99F0-49A9213C7FD0}|ApiMyContabs\\ApiMyContabs.csproj|solutionrelative:apimycontabs\\repository\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{15F44A17-962C-4A47-99F0-49A9213C7FD0}|ApiMyContabs\\ApiMyContabs.csproj|c:\\users\\draka\\source\\repos\\webcontabs\\apimycontabs\\repository\\mapping\\userbankaccountmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F44A17-962C-4A47-99F0-49A9213C7FD0}|ApiMyContabs\\ApiMyContabs.csproj|solutionrelative:apimycontabs\\repository\\mapping\\userbankaccountmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F44A17-962C-4A47-99F0-49A9213C7FD0}|ApiMyContabs\\ApiMyContabs.csproj|c:\\users\\draka\\source\\repos\\webcontabs\\apimycontabs\\repository\\entity\\userbankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F44A17-962C-4A47-99F0-49A9213C7FD0}|ApiMyContabs\\ApiMyContabs.csproj|solutionrelative:apimycontabs\\repository\\entity\\userbankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F44A17-962C-4A47-99F0-49A9213C7FD0}|ApiMyContabs\\ApiMyContabs.csproj|c:\\users\\draka\\source\\repos\\webcontabs\\apimycontabs\\repository\\mapping\\spendermapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F44A17-962C-4A47-99F0-49A9213C7FD0}|ApiMyContabs\\ApiMyContabs.csproj|solutionrelative:apimycontabs\\repository\\mapping\\spendermapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F44A17-962C-4A47-99F0-49A9213C7FD0}|ApiMyContabs\\ApiMyContabs.csproj|c:\\users\\draka\\source\\repos\\webcontabs\\apimycontabs\\repository\\entity\\spender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F44A17-962C-4A47-99F0-49A9213C7FD0}|ApiMyContabs\\ApiMyContabs.csproj|solutionrelative:apimycontabs\\repository\\entity\\spender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F44A17-962C-4A47-99F0-49A9213C7FD0}|ApiMyContabs\\ApiMyContabs.csproj|c:\\users\\draka\\source\\repos\\webcontabs\\apimycontabs\\repository\\mapping\\bankaccountmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F44A17-962C-4A47-99F0-49A9213C7FD0}|ApiMyContabs\\ApiMyContabs.csproj|solutionrelative:apimycontabs\\repository\\mapping\\bankaccountmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F44A17-962C-4A47-99F0-49A9213C7FD0}|ApiMyContabs\\ApiMyContabs.csproj|c:\\users\\draka\\source\\repos\\webcontabs\\apimycontabs\\repository\\entity\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F44A17-962C-4A47-99F0-49A9213C7FD0}|ApiMyContabs\\ApiMyContabs.csproj|solutionrelative:apimycontabs\\repository\\entity\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,66 +55,137 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\draka\\source\\repos\\WebContabs\\ApiMyContabs\\Program.cs",
-              "RelativeDocumentMoniker": "ApiMyContabs\\Program.cs",
-              "ToolTip": "C:\\Users\\draka\\source\\repos\\WebContabs\\ApiMyContabs\\Program.cs",
-              "RelativeToolTip": "ApiMyContabs\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAkAAAA",
+              "Title": "UserInvestiment.cs",
+              "DocumentMoniker": "C:\\Users\\draka\\source\\repos\\WebContabs\\ApiMyContabs\\Repository\\Entity\\UserInvestiment.cs",
+              "RelativeDocumentMoniker": "ApiMyContabs\\Repository\\Entity\\UserInvestiment.cs",
+              "ToolTip": "C:\\Users\\draka\\source\\repos\\WebContabs\\ApiMyContabs\\Repository\\Entity\\UserInvestiment.cs",
+              "RelativeToolTip": "ApiMyContabs\\Repository\\Entity\\UserInvestiment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T02:39:57.288Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\draka\\source\\repos\\WebContabs\\ApiMyContabs\\Repository\\Entity\\User.cs",
-              "RelativeDocumentMoniker": "ApiMyContabs\\Repository\\Entity\\User.cs",
-              "ToolTip": "C:\\Users\\draka\\source\\repos\\WebContabs\\ApiMyContabs\\Repository\\Entity\\User.cs",
-              "RelativeToolTip": "ApiMyContabs\\Repository\\Entity\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T02:09:00.254Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\draka\\source\\repos\\WebContabs\\ApiMyContabs\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "ApiMyContabs\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\draka\\source\\repos\\WebContabs\\ApiMyContabs\\Controllers\\UserController.cs",
-              "RelativeToolTip": "ApiMyContabs\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvw4AAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T02:07:26.952Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ConnectionContext.cs",
-              "DocumentMoniker": "C:\\Users\\draka\\source\\repos\\WebContabs\\ApiMyContabs\\Repository\\ConnectionContext.cs",
-              "RelativeDocumentMoniker": "ApiMyContabs\\Repository\\ConnectionContext.cs",
-              "ToolTip": "C:\\Users\\draka\\source\\repos\\WebContabs\\ApiMyContabs\\Repository\\ConnectionContext.cs",
-              "RelativeToolTip": "ApiMyContabs\\Repository\\ConnectionContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T01:36:42.288Z",
+              "WhenOpened": "2024-07-23T00:34:55.998Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\draka\\source\\repos\\WebContabs\\ApiMyContabs\\Repository\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "ApiMyContabs\\Repository\\Services\\UserService.cs",
-              "ToolTip": "C:\\Users\\draka\\source\\repos\\WebContabs\\ApiMyContabs\\Repository\\Services\\UserService.cs",
-              "RelativeToolTip": "ApiMyContabs\\Repository\\Services\\UserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Title": "UserBill.cs",
+              "DocumentMoniker": "C:\\Users\\draka\\source\\repos\\WebContabs\\ApiMyContabs\\Repository\\Entity\\UserBill.cs",
+              "RelativeDocumentMoniker": "ApiMyContabs\\Repository\\Entity\\UserBill.cs",
+              "ToolTip": "C:\\Users\\draka\\source\\repos\\WebContabs\\ApiMyContabs\\Repository\\Entity\\UserBill.cs",
+              "RelativeToolTip": "ApiMyContabs\\Repository\\Entity\\UserBill.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T01:34:51.929Z",
+              "WhenOpened": "2024-07-23T00:30:53.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserBankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\draka\\source\\repos\\WebContabs\\ApiMyContabs\\Repository\\Entity\\UserBankAccount.cs",
+              "RelativeDocumentMoniker": "ApiMyContabs\\Repository\\Entity\\UserBankAccount.cs",
+              "ToolTip": "C:\\Users\\draka\\source\\repos\\WebContabs\\ApiMyContabs\\Repository\\Entity\\UserBankAccount.cs",
+              "RelativeToolTip": "ApiMyContabs\\Repository\\Entity\\UserBankAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T00:28:02.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Spender.cs",
+              "DocumentMoniker": "C:\\Users\\draka\\source\\repos\\WebContabs\\ApiMyContabs\\Repository\\Entity\\Spender.cs",
+              "RelativeDocumentMoniker": "ApiMyContabs\\Repository\\Entity\\Spender.cs",
+              "ToolTip": "C:\\Users\\draka\\source\\repos\\WebContabs\\ApiMyContabs\\Repository\\Entity\\Spender.cs",
+              "RelativeToolTip": "ApiMyContabs\\Repository\\Entity\\Spender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T00:24:17.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\draka\\source\\repos\\WebContabs\\ApiMyContabs\\Repository\\Entity\\BankAccount.cs",
+              "RelativeDocumentMoniker": "ApiMyContabs\\Repository\\Entity\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\draka\\source\\repos\\WebContabs\\ApiMyContabs\\Repository\\Entity\\BankAccount.cs",
+              "RelativeToolTip": "ApiMyContabs\\Repository\\Entity\\BankAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T00:21:00.186Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserInvestimentMapping.cs",
+              "DocumentMoniker": "C:\\Users\\draka\\source\\repos\\WebContabs\\ApiMyContabs\\Repository\\Mapping\\UserInvestimentMapping.cs",
+              "RelativeDocumentMoniker": "ApiMyContabs\\Repository\\Mapping\\UserInvestimentMapping.cs",
+              "ToolTip": "C:\\Users\\draka\\source\\repos\\WebContabs\\ApiMyContabs\\Repository\\Mapping\\UserInvestimentMapping.cs",
+              "RelativeToolTip": "ApiMyContabs\\Repository\\Mapping\\UserInvestimentMapping.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T00:35:29.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserBillMapping.cs",
+              "DocumentMoniker": "C:\\Users\\draka\\source\\repos\\WebContabs\\ApiMyContabs\\Repository\\Mapping\\UserBillMapping.cs",
+              "RelativeDocumentMoniker": "ApiMyContabs\\Repository\\Mapping\\UserBillMapping.cs",
+              "ToolTip": "C:\\Users\\draka\\source\\repos\\WebContabs\\ApiMyContabs\\Repository\\Mapping\\UserBillMapping.cs",
+              "RelativeToolTip": "ApiMyContabs\\Repository\\Mapping\\UserBillMapping.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T00:31:17.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserBankAccountMapping.cs",
+              "DocumentMoniker": "C:\\Users\\draka\\source\\repos\\WebContabs\\ApiMyContabs\\Repository\\Mapping\\UserBankAccountMapping.cs",
+              "RelativeDocumentMoniker": "ApiMyContabs\\Repository\\Mapping\\UserBankAccountMapping.cs",
+              "ToolTip": "C:\\Users\\draka\\source\\repos\\WebContabs\\ApiMyContabs\\Repository\\Mapping\\UserBankAccountMapping.cs",
+              "RelativeToolTip": "ApiMyContabs\\Repository\\Mapping\\UserBankAccountMapping.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T00:28:28.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SpenderMapping.cs",
+              "DocumentMoniker": "C:\\Users\\draka\\source\\repos\\WebContabs\\ApiMyContabs\\Repository\\Mapping\\SpenderMapping.cs",
+              "RelativeDocumentMoniker": "ApiMyContabs\\Repository\\Mapping\\SpenderMapping.cs",
+              "ToolTip": "C:\\Users\\draka\\source\\repos\\WebContabs\\ApiMyContabs\\Repository\\Mapping\\SpenderMapping.cs",
+              "RelativeToolTip": "ApiMyContabs\\Repository\\Mapping\\SpenderMapping.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T00:24:36.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BankAccountMapping.cs",
+              "DocumentMoniker": "C:\\Users\\draka\\source\\repos\\WebContabs\\ApiMyContabs\\Repository\\Mapping\\BankAccountMapping.cs",
+              "RelativeDocumentMoniker": "ApiMyContabs\\Repository\\Mapping\\BankAccountMapping.cs",
+              "ToolTip": "C:\\Users\\draka\\source\\repos\\WebContabs\\ApiMyContabs\\Repository\\Mapping\\BankAccountMapping.cs",
+              "RelativeToolTip": "ApiMyContabs\\Repository\\Mapping\\BankAccountMapping.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T00:21:15.013Z",
               "EditorCaption": ""
             }
           ]
