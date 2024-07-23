@@ -4,7 +4,7 @@ using ApiMyContabs.Repository.Services;
 namespace ApiMyContabs.Controllers
 {
     [ApiController]
-    [Route("api/v1/User")]
+    [Route("api/v1/VerifyUser")]
     public class UserController : ControllerBase
     {
         private readonly IUserService _userService = new UserService();
@@ -19,5 +19,17 @@ namespace ApiMyContabs.Controllers
             else
                 return Ok("User Not Found");
         }
+
+        [HttpGet]
+        [Route("api/v1/GetUsers")]
+        public IActionResult GetAllUser()
+        {
+            string? Response = _userService.GetAllUser();
+            if (Response != null)
+                return Ok(Response);
+            else
+                return Ok(Response);
+        }
+
     }
 }

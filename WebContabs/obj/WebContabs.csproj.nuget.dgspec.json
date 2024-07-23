@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\draka\\source\\repos\\WebContabs\\WebContabs\\WebContabs.csproj": {}
+    "C:\\Users\\Brendo\\source\\repos\\WebContabs\\WebContabs\\WebContabs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\draka\\source\\repos\\WebContabs\\WebContabs\\WebContabs.csproj": {
+    "C:\\Users\\Brendo\\source\\repos\\WebContabs\\WebContabs\\WebContabs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\draka\\source\\repos\\WebContabs\\WebContabs\\WebContabs.csproj",
+        "projectUniqueName": "C:\\Users\\Brendo\\source\\repos\\WebContabs\\WebContabs\\WebContabs.csproj",
         "projectName": "WebContabs",
-        "projectPath": "C:\\Users\\draka\\source\\repos\\WebContabs\\WebContabs\\WebContabs.csproj",
-        "packagesPath": "C:\\Users\\draka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\draka\\source\\repos\\WebContabs\\WebContabs\\obj\\",
+        "projectPath": "C:\\Users\\Brendo\\source\\repos\\WebContabs\\WebContabs\\WebContabs.csproj",
+        "packagesPath": "C:\\Users\\Brendo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Brendo\\source\\repos\\WebContabs\\WebContabs\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\draka\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Brendo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
