@@ -8,13 +8,13 @@ namespace ApiMyContabs.Repository.Mapping
         public UserBillMapping() 
         {
             Table("t_userbill");
-            Id(x => x.Id).Column("Id");
-            Map(x=>x.Description).Column("Description");
-            Map(x => x.TotalValue).Column("TotalValue");
-            Map(x => x.InstallmentAmount).Column("InstallmentValue");
-            Map(x => x.InitialDate).Column("InitialDate");
-            Map(x => x.FinalDate).Column("FinalDate");
-            References(x => x.User).Column("User_Id");
+            Id(x => x.Id).Column("id");
+            Map(x=>x.Description).Column("description");
+            Map(x => x.TotalValue).Column("totalvalue");
+            Map(x => x.InstallmentAmount).Column("installmentvalue");
+            Map(x => x.InitialDate).Column("initialdate");
+            Map(x => x.FinalDate).Column("finaldate");
+            References(x => x.User).Column("user_id");
         }
      
     }

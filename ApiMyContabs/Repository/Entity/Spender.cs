@@ -2,10 +2,10 @@
 {
     public class Spender
     {
-        public int Id { get; set; }
-        public string? Name { get; set; }
-        public string? Profile { get; set; }
-        public string? PhoneNumber { get; set; }
-        public string? Email { get; set; }
+        public virtual int Id { get; set; }
+        public virtual string? Name { get; set; }
+        public virtual string? Profile { get; set; }
+        public virtual string? PhoneNumber { get; set; }
+        public virtual string? Email { get; set; }
     }
 }

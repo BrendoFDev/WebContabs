@@ -2,12 +2,12 @@
 {
     public class UserBill
     {
-        public int Id { get; set; }
-        public string? Description { get; set; }
-        public string? TotalValue { get; set; }
-        public int InstallmentAmount { get; set; }
-        public DateTime? InitialDate { get; set; }
-        public DateTime? FinalDate { get; set; }
-        public User? User { get; set; }
+        public virtual int Id { get; set; }
+        public virtual string? Description { get; set; }
+        public virtual string? TotalValue { get; set; }
+        public virtual int InstallmentAmount { get; set; }
+        public virtual DateTime? InitialDate { get; set; }
+        public virtual DateTime? FinalDate { get; set; }
+        public virtual User? User { get; set; }
     }
 }

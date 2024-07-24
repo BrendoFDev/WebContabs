@@ -9,10 +9,10 @@ namespace ApiMyContabs.Repository.Mapping
         public BankAccountMapping()
         {
             Table("t_bankaccount"); 
-            Id(x => x.Id).Column("Id");
-            Map(x=>x.Name).Column("Name");
-            Map(x=>x.Limit).Column("Limit");
-            References(x => x.Spender).Column("Spender_Id");
+            Id(x => x.Id).Column("id");
+            Map(x=>x.Name).Column("name");
+            Map(x=>x.Limit).Column("limit");
+            References(x => x.Spender).Column("spender_id");
         }
     }
 }

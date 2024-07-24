@@ -8,10 +8,10 @@ namespace ApiMyContabs.Repository.Mapping
         public UserMetaMapping() 
         {
             Table("t_usermeta");
-            Id(x => x.Id).Column("Id");
-            Map(x=>x.Description).Column("Description");
-            Map(x => x.MetaValue).Column("MetaValue");
-            References(x => x.User).Column("User_Id");
+            Id(x => x.Id).Column("id");
+            Map(x=>x.Description).Column("description");
+            Map(x => x.MetaValue).Column("metavalue");
+            References(x => x.User).Column("user_id");
         }
     }
 }

@@ -1,6 +1,5 @@
 ﻿using FluentNHibernate.Mapping;
 using ApiMyContabs.Repository.Entity;
-using NHibernate.Mapping;
 
 namespace ApiMyContabs.Repository.Mapping
 {
@@ -9,10 +8,10 @@ namespace ApiMyContabs.Repository.Mapping
         public UserMapping()
         {
             Table("t_user");
-            Id(x => x.Id).Column("Id");
-            Map(x=>x.Name).Column("Name");
-            Map(x => x.Email).Column("Email");
-            Map(x=>x.Password).Column("Password");
+            Id(x => x.Id).Column("id").GeneratedBy.Sequence("t_user_id_seq");
+            Map(x => x.Name).Column("name");
+            Map(x => x.Email).Column("email");
+            Map(x => x.Password).Column("password");
         }
     }
 }

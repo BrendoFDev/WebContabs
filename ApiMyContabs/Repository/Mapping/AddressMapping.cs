@@ -8,12 +8,12 @@ namespace ApiMyContabs.Repository.Mapping
         public AddressMapping()
         {
             Table("t_address");
-            Id(x => x.Id).Column("Id");
-            Map(x=>x.StreetName).Column("StreetName");
+            Id(x => x.Id).Column("id");
+            Map(x=>x.StreetName).Column("streetname");
             Map(x => x.Neigborhood).Column("Neigborhood");
-            Map(x => x.City).Column("City");
-            Map(x => x.HouseNumber).Column("HouseNumber");
-            References(x => x.Spender).Column("Spender_Id");
+            Map(x => x.City).Column("city");
+            Map(x => x.HouseNumber).Column("housenumber");
+            References(x => x.Spender).Column("spender_id");
         }
     }
 }

@@ -2,9 +2,9 @@
 {
     public class UserInvestiment
     {
-        public int Id { get; set; }
-        public string? InvestimentValue { get; set; }
-        public string? InvestimentDate { get; set; }
-        public User? User { get; set; }
+        public virtual int Id { get; set; }
+        public virtual string? InvestimentValue { get; set; }
+        public virtual string? InvestimentDate { get; set; }
+        public virtual User? User { get; set; }
     }
 }

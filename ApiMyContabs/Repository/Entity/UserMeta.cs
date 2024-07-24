@@ -3,9 +3,9 @@
   
     public class UserMeta
     {
-        public int Id { get; set; }
-        public string? Description { get; set; }
-        public string? MetaValue { get; set; }
-        public User? User { get; set; }
+        public virtual int Id { get; set; }
+        public virtual string? Description { get; set; }
+        public virtual string? MetaValue { get; set; }
+        public virtual User? User { get; set; }
     }
 }

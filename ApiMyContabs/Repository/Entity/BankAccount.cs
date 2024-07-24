@@ -3,10 +3,9 @@
 
     public class BankAccount
     {
-       
-        public int Id { get; set; }
-        public string? Name { get; set; }
-        public string? Limit { get; set; }
-        public Spender? Spender { get; set; }
+        public virtual int Id { get; set; }
+        public virtual string? Name { get; set; }
+        public virtual string? Limit { get; set; }
+        public virtual Spender? Spender { get; set; }
     }
 }

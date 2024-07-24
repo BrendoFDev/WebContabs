@@ -8,10 +8,10 @@ namespace ApiMyContabs.Repository.Mapping
         public UserInvestimentMapping()
         {
             Table("t_userinvestiment");
-            Id(x => x.Id).Column("Id");
-            Map(x => x.InvestimentValue).Column("InvestimentValue");
-            Map(x => x.InvestimentDate).Column("InvestimentDate");
-            References(x => x.User).Column("User_Id");
+            Id(x => x.Id).Column("id");
+            Map(x => x.InvestimentValue).Column("investimentvalue");
+            Map(x => x.InvestimentDate).Column("investimentdate");
+            References(x => x.User).Column("user_id");
         }
     }
 }

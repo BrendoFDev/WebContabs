@@ -4,6 +4,7 @@ using FluentNHibernate.Cfg;
 using NHibernate;
 using ApiMyContabs.Repository.Entity;
 using NHibernate.Tool.hbm2ddl;
+using ApiMyContabs.Repository.Mapping;
 
 namespace ApiMyContabs.Repository
 {
@@ -14,9 +15,9 @@ namespace ApiMyContabs.Repository
         private ISessionFactory CreateSessionFactory()
         {
             return Fluently.Configure()
-                .Database(PostgreSQLConfiguration.Standard.ConnectionString("Username=postgres; Password=softlog; Host=localhost; Port=5432; Database=MyContabs;"))
-                .Mappings(x => x.FluentMappings.AddFromAssemblyOf<MappingMaker>())
-                .ExposeConfiguration(cfg => new SchemaExport(cfg).Create(true, true))
+                .Database(PostgreSQLConfiguration.Standard.ConnectionString("Username=postgres; Password=brendo; Host=localhost; Port=5432; Database=MyContabs;"))
+                .Mappings(x => x.FluentMappings.AddFromAssemblyOf<UserMapping>())
+                /*.ExposeConfiguration(cfg => new SchemaExport(cfg).Create(true, true))*/
                 .BuildSessionFactory();
         }
 

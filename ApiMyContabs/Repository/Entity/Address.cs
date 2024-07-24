@@ -2,11 +2,11 @@
 {
     public class Address
     {
-        public int Id { get; set; }
-        public string? StreetName { get; set; }
-        public string? Neigborhood { get; set; }
-        public string? City { get; set; }
-        public string? HouseNumber { get; set; }
-        public Spender? Spender { get; set; }
+        public virtual int Id { get; set; }
+        public virtual string? StreetName { get; set; }
+        public virtual string? Neigborhood { get; set; }
+        public virtual string? City { get; set; }
+        public virtual string? HouseNumber { get; set; }
+        public virtual Spender? Spender { get; set; }
     }
 }
