@@ -32,7 +32,7 @@ namespace ApiMyContabs.Repository
         }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-            => optionsBuilder.UseNpgsql("Server=localhost; Database=MyContabs; Port=5432; User Id=postgres; Password=brendo;");
+            => optionsBuilder.UseNpgsql("Server=localhost; Database=MyContabs; Port=5432; User Id=postgres; Password=softlog;");
 
     }
 }

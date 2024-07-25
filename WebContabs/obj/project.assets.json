@@ -8,23 +8,23 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\draka\\.nuget\\packages\\": {},
+    "C:\\Users\\Programador 2\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\draka\\source\\repos\\WebContabs\\WebContabs\\WebContabs.csproj",
+      "projectUniqueName": "C:\\Users\\Programador 2\\source\\repos\\MYContabs\\WebContabs\\WebContabs.csproj",
       "projectName": "WebContabs",
-      "projectPath": "C:\\Users\\draka\\source\\repos\\WebContabs\\WebContabs\\WebContabs.csproj",
-      "packagesPath": "C:\\Users\\draka\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\draka\\source\\repos\\WebContabs\\WebContabs\\obj\\",
+      "projectPath": "C:\\Users\\Programador 2\\source\\repos\\MYContabs\\WebContabs\\WebContabs.csproj",
+      "packagesPath": "C:\\Users\\Programador 2\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Programador 2\\source\\repos\\MYContabs\\WebContabs\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\draka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Programador 2\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

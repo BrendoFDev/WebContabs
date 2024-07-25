@@ -14,10 +14,7 @@ namespace ApiMyContabs.Controllers
         public IActionResult VerifyUserByEmailAndPassword(string Email, string Password)
         {
            string? Response = _userService.GetUserByEmailAndPassword(Email, Password);
-            if(Response != null)
-                return Ok(Response);
-            else
-                return Ok("User Not Found");
+           return Ok(Response);
         }
 
         [HttpGet]
@@ -25,10 +22,7 @@ namespace ApiMyContabs.Controllers
         public IActionResult GetAllUser()
         {
             string? Response = _userService.GetAllUser();
-            if (Response != null)
-                return Ok(Response);
-            else
-                return Ok(Response);
+            return Ok(Response);
         }
     }
 }
