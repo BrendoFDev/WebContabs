@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace ApiMyContabs.Repository.Entity
 {
-    [Table("t_UserInvestiment")]
+    [Table("t_userinvestiment")]
     public class UserInvestiment
     {
         [Key]

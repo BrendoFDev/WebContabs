@@ -36,3 +36,4 @@ C:\Users\draka\source\repos\WebContabs\ApiMyContabs\obj\Debug\net8.0\refint\ApiM
 C:\Users\draka\source\repos\WebContabs\ApiMyContabs\obj\Debug\net8.0\ApiMyContabs.pdb
 C:\Users\draka\source\repos\WebContabs\ApiMyContabs\obj\Debug\net8.0\ApiMyContabs.genruntimeconfig.cache
 C:\Users\draka\source\repos\WebContabs\ApiMyContabs\obj\Debug\net8.0\ref\ApiMyContabs.dll
+C:\Users\draka\source\repos\WebContabs\ApiMyContabs\obj\Debug\net8.0\ApiMyContabs.sourcelink.json

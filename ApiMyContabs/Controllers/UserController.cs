@@ -10,7 +10,7 @@ namespace ApiMyContabs.Controllers
         private readonly IUserService _userService = new UserService();
 
         [HttpPost]
-        [Route("User/{Email}&{Password}")]
+        [Route("api/v1/User/{Email}&{Password}")]
         public IActionResult VerifyUserByEmailAndPassword(string Email, string Password)
         {
            string? Response = _userService.GetUserByEmailAndPassword(Email, Password);
@@ -18,6 +18,17 @@ namespace ApiMyContabs.Controllers
                 return Ok(Response);
             else
                 return Ok("User Not Found");
+        }
+
+        [HttpGet]
+        [Route("api/v1/AllUser")]
+        public IActionResult GetAllUser()
+        {
+            string? Response = _userService.GetAllUser();
+            if (Response != null)
+                return Ok(Response);
+            else
+                return Ok(Response);
         }
     }
 }
