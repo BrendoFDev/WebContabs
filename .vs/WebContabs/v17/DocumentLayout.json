@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "ApiMyContabs\\Program.cs",
               "ToolTip": "C:\\Users\\draka\\source\\repos\\WebContabs\\ApiMyContabs\\Program.cs",
               "RelativeToolTip": "ApiMyContabs\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAkAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-21T02:39:57.288Z",
               "EditorCaption": ""
@@ -55,8 +55,7 @@
               "RelativeToolTip": "ApiMyContabs\\Repository\\Entity\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T02:09:00.254Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T02:09:00.254Z"
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "ApiMyContabs\\Controllers\\UserController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvw4AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T02:07:26.952Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T02:07:26.952Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "ApiMyContabs\\Repository\\ConnectionContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T01:36:42.288Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T01:36:42.288Z"
             },
             {
               "$type": "Document",
@@ -94,8 +91,7 @@
               "RelativeToolTip": "ApiMyContabs\\Repository\\Services\\UserService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T01:34:51.929Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-21T01:34:51.929Z"
             }
           ]
         }

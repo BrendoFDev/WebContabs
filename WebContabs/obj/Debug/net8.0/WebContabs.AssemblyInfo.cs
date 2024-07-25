@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebContabs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c213ff6f09bebe1018304d79c83d4aaf93f3a4c")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebContabs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebContabs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
