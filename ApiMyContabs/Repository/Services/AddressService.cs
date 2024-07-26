@@ -1,4 +1,5 @@
-﻿using Newtonsoft.Json;
+﻿using ApiMyContabs.Repository.Entity;
+using Newtonsoft.Json;
 
 namespace ApiMyContabs.Repository.Services
 {
@@ -17,11 +18,18 @@ namespace ApiMyContabs.Repository.Services
             var Result = connectionContext.Address.ToList();
             return JsonConvert.SerializeObject(Result);
         }
+
+        public string? CreateAddress(Address Address)
+        {
+            connectionContext.Add(Address);
+            return "Address Added with Sucess";
+        }
     }
 
     public interface IAddressService
     {
         string? GetAddressBySpender(int SpenderId);
         string? GetAllAddress();
+        string? CreateAddress(Address Address);
     }
 }

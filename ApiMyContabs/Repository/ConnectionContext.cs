@@ -6,14 +6,14 @@ namespace ApiMyContabs.Repository
 {
     public class ConnectionContext : DbContext
     {
-        public DbSet<User> User { get; set; }
+        public DbSet<UserModel> User { get; set; }
         public DbSet<Spender> Spender { get; set; }
         public DbSet<Address> Address { get; set; }
         public DbSet<BankAccount> BankAccount { get; set; }
-        public DbSet<UserBankAccount> UserBankAccount { get; set; }
-        public DbSet<UserBill> UserBill { get; set; }
-        public DbSet<UserInvestiment> UserInvestiment { get; set; }
-        public DbSet<UserMeta> UserMeta { get; set; }
+        public DbSet<UserBankAccountModel> UserBankAccount { get; set; }
+        public DbSet<UserBillModel> UserBill { get; set; }
+        public DbSet<UserInvestimentModel> UserInvestiment { get; set; }
+        public DbSet<UserMetaModel> UserMeta { get; set; }
         public DbSet<ViewUserInvestiment> viewUserInvestiment { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
@@ -32,7 +32,6 @@ namespace ApiMyContabs.Repository
         }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-            => optionsBuilder.UseNpgsql("Server=localhost; Database=MyContabs; Port=5432; User Id=postgres; Password=softlog;");
-
+            => optionsBuilder.UseNpgsql("Server=localhost; Database=MyContabs; Port=5433; User Id=postgres; Password=brendo;");
     }
 }

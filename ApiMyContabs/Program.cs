@@ -1,4 +1,6 @@
-using ApiMyContabs.Repository.Services; 
+using ApiMyContabs.Repository;
+using ApiMyContabs.Repository.Services;
+using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -10,6 +12,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddTransient<IUserService, UserService>();
+builder.Services.AddTransient<IAddressService, AddressService>();
 
 var app = builder.Build();
 

@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 namespace ApiMyContabs.Repository.Entity
 {
     [Table("t_userbill")]
-    public class UserBill
+    public class UserBillModel
     {
         [Key]
         public int Id { get; set; }
@@ -13,6 +13,6 @@ namespace ApiMyContabs.Repository.Entity
         public int InstallmentAmount { get; set; }
         public DateTime? InitialDate { get; set; }
         public DateTime? FinalDate { get; set; }
-        public User? User { get; set; }
+        public UserModel? User { get; set; }
     }
 }

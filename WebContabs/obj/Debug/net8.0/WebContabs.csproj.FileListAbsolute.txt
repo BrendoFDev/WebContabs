@@ -13,6 +13,7 @@ C:\Users\draka\source\repos\WebContabs\WebContabs\obj\Debug\net8.0\WebContabs.cs
 C:\Users\draka\source\repos\WebContabs\WebContabs\obj\Debug\net8.0\WebContabs.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\draka\source\repos\WebContabs\WebContabs\obj\Debug\net8.0\WebContabs.RazorAssemblyInfo.cache
 C:\Users\draka\source\repos\WebContabs\WebContabs\obj\Debug\net8.0\WebContabs.RazorAssemblyInfo.cs
+C:\Users\draka\source\repos\WebContabs\WebContabs\obj\Debug\net8.0\WebContabs.sourcelink.json
 C:\Users\draka\source\repos\WebContabs\WebContabs\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\draka\source\repos\WebContabs\WebContabs\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\draka\source\repos\WebContabs\WebContabs\obj\Debug\net8.0\staticwebassets\msbuild.WebContabs.Microsoft.AspNetCore.StaticWebAssets.props

@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 namespace ApiMyContabs.Repository.Entity
 {
     [Table("t_user")]
-    public class User
+    public class UserModel
     {
         [Key]
         public int Id { get; set; }
