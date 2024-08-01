@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiMyContabs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2d6006f083bbb86897552f09ea54ddd4d476633")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a510d8d52a66bc9c65003cddd5298aab7d0b3234")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiMyContabs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiMyContabs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

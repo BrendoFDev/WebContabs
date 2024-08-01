@@ -23,10 +23,6 @@ namespace ApiMyContabs.Controllers
         [Route("api/v1/Address/")]
         public IActionResult CreateAddress([FromForm] Address Address)
         {
-            if(Address == null)
-            {
-                return BadRequest("Addres Data Required");
-            }
             string? Request = _addressService.CreateAddress(Address);
 
             return Ok(Request);
@@ -34,7 +30,6 @@ namespace ApiMyContabs.Controllers
 
         [HttpGet]
         [Route("api/v1/Address")]
-
         public IActionResult GetAllAddress()
         {
             string? Request = _addressService.GetAllAddress();

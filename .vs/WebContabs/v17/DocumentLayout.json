@@ -1,38 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\draka\\source\\repos\\WebContabs\\",
+  "WorkspaceRootPath": "C:\\Users\\Programador 2\\source\\repos\\WebContabs\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{15F44A17-962C-4A47-99F0-49A9213C7FD0}|ApiMyContabs\\ApiMyContabs.csproj|c:\\users\\draka\\source\\repos\\webcontabs\\apimycontabs\\repository\\services\\addressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15F44A17-962C-4A47-99F0-49A9213C7FD0}|ApiMyContabs\\ApiMyContabs.csproj|solutionrelative:apimycontabs\\repository\\services\\addressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{15F44A17-962C-4A47-99F0-49A9213C7FD0}|ApiMyContabs\\ApiMyContabs.csproj|c:\\users\\programador 2\\source\\repos\\webcontabs\\apimycontabs\\repository\\services\\spenderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F44A17-962C-4A47-99F0-49A9213C7FD0}|ApiMyContabs\\ApiMyContabs.csproj|solutionrelative:apimycontabs\\repository\\services\\spenderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15F44A17-962C-4A47-99F0-49A9213C7FD0}|ApiMyContabs\\ApiMyContabs.csproj|c:\\users\\draka\\source\\repos\\webcontabs\\apimycontabs\\repository\\entity\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15F44A17-962C-4A47-99F0-49A9213C7FD0}|ApiMyContabs\\ApiMyContabs.csproj|solutionrelative:apimycontabs\\repository\\entity\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15F44A17-962C-4A47-99F0-49A9213C7FD0}|ApiMyContabs\\ApiMyContabs.csproj|c:\\users\\draka\\source\\repos\\webcontabs\\apimycontabs\\repository\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15F44A17-962C-4A47-99F0-49A9213C7FD0}|ApiMyContabs\\ApiMyContabs.csproj|solutionrelative:apimycontabs\\repository\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15F44A17-962C-4A47-99F0-49A9213C7FD0}|ApiMyContabs\\ApiMyContabs.csproj|c:\\users\\draka\\source\\repos\\webcontabs\\apimycontabs\\repository\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15F44A17-962C-4A47-99F0-49A9213C7FD0}|ApiMyContabs\\ApiMyContabs.csproj|solutionrelative:apimycontabs\\repository\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15F44A17-962C-4A47-99F0-49A9213C7FD0}|ApiMyContabs\\ApiMyContabs.csproj|c:\\users\\draka\\source\\repos\\webcontabs\\apimycontabs\\repository\\connectioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{15F44A17-962C-4A47-99F0-49A9213C7FD0}|ApiMyContabs\\ApiMyContabs.csproj|c:\\users\\programador 2\\source\\repos\\webcontabs\\apimycontabs\\repository\\connectioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15F44A17-962C-4A47-99F0-49A9213C7FD0}|ApiMyContabs\\ApiMyContabs.csproj|solutionrelative:apimycontabs\\repository\\connectioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15F44A17-962C-4A47-99F0-49A9213C7FD0}|ApiMyContabs\\ApiMyContabs.csproj|c:\\users\\draka\\source\\repos\\webcontabs\\apimycontabs\\controllers\\addresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{15F44A17-962C-4A47-99F0-49A9213C7FD0}|ApiMyContabs\\ApiMyContabs.csproj|c:\\users\\programador 2\\source\\repos\\webcontabs\\apimycontabs\\repository\\entity\\spender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F44A17-962C-4A47-99F0-49A9213C7FD0}|ApiMyContabs\\ApiMyContabs.csproj|solutionrelative:apimycontabs\\repository\\entity\\spender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F44A17-962C-4A47-99F0-49A9213C7FD0}|ApiMyContabs\\ApiMyContabs.csproj|c:\\users\\programador 2\\source\\repos\\webcontabs\\apimycontabs\\repository\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F44A17-962C-4A47-99F0-49A9213C7FD0}|ApiMyContabs\\ApiMyContabs.csproj|solutionrelative:apimycontabs\\repository\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F44A17-962C-4A47-99F0-49A9213C7FD0}|ApiMyContabs\\ApiMyContabs.csproj|c:\\users\\programador 2\\source\\repos\\webcontabs\\apimycontabs\\repository\\services\\addressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F44A17-962C-4A47-99F0-49A9213C7FD0}|ApiMyContabs\\ApiMyContabs.csproj|solutionrelative:apimycontabs\\repository\\services\\addressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F44A17-962C-4A47-99F0-49A9213C7FD0}|ApiMyContabs\\ApiMyContabs.csproj|c:\\users\\programador 2\\source\\repos\\webcontabs\\apimycontabs\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F44A17-962C-4A47-99F0-49A9213C7FD0}|ApiMyContabs\\ApiMyContabs.csproj|solutionrelative:apimycontabs\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F44A17-962C-4A47-99F0-49A9213C7FD0}|ApiMyContabs\\ApiMyContabs.csproj|c:\\users\\programador 2\\source\\repos\\webcontabs\\apimycontabs\\controllers\\addresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15F44A17-962C-4A47-99F0-49A9213C7FD0}|ApiMyContabs\\ApiMyContabs.csproj|solutionrelative:apimycontabs\\controllers\\addresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15F44A17-962C-4A47-99F0-49A9213C7FD0}|ApiMyContabs\\ApiMyContabs.csproj|c:\\users\\draka\\source\\repos\\webcontabs\\apimycontabs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15F44A17-962C-4A47-99F0-49A9213C7FD0}|ApiMyContabs\\ApiMyContabs.csproj|solutionrelative:apimycontabs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15F44A17-962C-4A47-99F0-49A9213C7FD0}|ApiMyContabs\\ApiMyContabs.csproj|c:\\users\\draka\\source\\repos\\webcontabs\\apimycontabs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{15F44A17-962C-4A47-99F0-49A9213C7FD0}|ApiMyContabs\\ApiMyContabs.csproj|solutionrelative:apimycontabs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,17 +38,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "ConnectionContext.cs",
-              "DocumentMoniker": "C:\\Users\\draka\\source\\repos\\WebContabs\\ApiMyContabs\\Repository\\ConnectionContext.cs",
+              "DocumentMoniker": "C:\\Users\\Programador 2\\source\\repos\\WebContabs\\ApiMyContabs\\Repository\\ConnectionContext.cs",
               "RelativeDocumentMoniker": "ApiMyContabs\\Repository\\ConnectionContext.cs",
-              "ToolTip": "C:\\Users\\draka\\source\\repos\\WebContabs\\ApiMyContabs\\Repository\\ConnectionContext.cs",
+              "ToolTip": "C:\\Users\\Programador 2\\source\\repos\\WebContabs\\ApiMyContabs\\Repository\\ConnectionContext.cs",
               "RelativeToolTip": "ApiMyContabs\\Repository\\ConnectionContext.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAiwCIAAABYAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-26T00:18:43.448Z",
               "IsPinned": true,
@@ -60,93 +56,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\draka\\source\\repos\\WebContabs\\ApiMyContabs\\Repository\\Entity\\User.cs",
-              "RelativeDocumentMoniker": "ApiMyContabs\\Repository\\Entity\\User.cs",
-              "ToolTip": "C:\\Users\\draka\\source\\repos\\WebContabs\\ApiMyContabs\\Repository\\Entity\\User.cs",
-              "RelativeToolTip": "ApiMyContabs\\Repository\\Entity\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T01:09:20.886Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Address.cs",
-              "DocumentMoniker": "C:\\Users\\draka\\source\\repos\\WebContabs\\ApiMyContabs\\Repository\\Entity\\Address.cs",
-              "RelativeDocumentMoniker": "ApiMyContabs\\Repository\\Entity\\Address.cs",
-              "ToolTip": "C:\\Users\\draka\\source\\repos\\WebContabs\\ApiMyContabs\\Repository\\Entity\\Address.cs",
-              "RelativeToolTip": "ApiMyContabs\\Repository\\Entity\\Address.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvw4AAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T00:58:49.878Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\draka\\source\\repos\\WebContabs\\ApiMyContabs\\appsettings.json",
-              "RelativeDocumentMoniker": "ApiMyContabs\\appsettings.json",
-              "ToolTip": "C:\\Users\\draka\\source\\repos\\WebContabs\\ApiMyContabs\\appsettings.json",
-              "RelativeToolTip": "ApiMyContabs\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-26T00:44:41.417Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\draka\\source\\repos\\WebContabs\\ApiMyContabs\\Program.cs",
-              "RelativeDocumentMoniker": "ApiMyContabs\\Program.cs",
-              "ToolTip": "C:\\Users\\draka\\source\\repos\\WebContabs\\ApiMyContabs\\Program.cs",
-              "RelativeToolTip": "ApiMyContabs\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T00:19:47.312Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AddressController.cs",
-              "DocumentMoniker": "C:\\Users\\draka\\source\\repos\\WebContabs\\ApiMyContabs\\Controllers\\AddressController.cs",
-              "RelativeDocumentMoniker": "ApiMyContabs\\Controllers\\AddressController.cs",
-              "ToolTip": "C:\\Users\\draka\\source\\repos\\WebContabs\\ApiMyContabs\\Controllers\\AddressController.cs",
-              "RelativeToolTip": "ApiMyContabs\\Controllers\\AddressController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAYwB8AAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T16:55:56.091Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
               "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\draka\\source\\repos\\WebContabs\\ApiMyContabs\\Repository\\Services\\UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Programador 2\\source\\repos\\WebContabs\\ApiMyContabs\\Repository\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "ApiMyContabs\\Repository\\Services\\UserService.cs",
-              "ToolTip": "C:\\Users\\draka\\source\\repos\\WebContabs\\ApiMyContabs\\Repository\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Programador 2\\source\\repos\\WebContabs\\ApiMyContabs\\Repository\\Services\\UserService.cs",
               "RelativeToolTip": "ApiMyContabs\\Repository\\Services\\UserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvw8AAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T16:34:51.772Z",
+              "WhenOpened": "2024-08-01T16:51:27.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddressService.cs",
+              "DocumentMoniker": "C:\\Users\\Programador 2\\source\\repos\\WebContabs\\ApiMyContabs\\Repository\\Services\\AddressService.cs",
+              "RelativeDocumentMoniker": "ApiMyContabs\\Repository\\Services\\AddressService.cs",
+              "ToolTip": "C:\\Users\\Programador 2\\source\\repos\\WebContabs\\ApiMyContabs\\Repository\\Services\\AddressService.cs",
+              "RelativeToolTip": "ApiMyContabs\\Repository\\Services\\AddressService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAowCEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T16:51:03.91Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AddressService.cs",
-              "DocumentMoniker": "C:\\Users\\draka\\source\\repos\\WebContabs\\ApiMyContabs\\Repository\\Services\\AddressService.cs",
-              "RelativeDocumentMoniker": "ApiMyContabs\\Repository\\Services\\AddressService.cs",
-              "ToolTip": "C:\\Users\\draka\\source\\repos\\WebContabs\\ApiMyContabs\\Repository\\Services\\AddressService.cs",
-              "RelativeToolTip": "ApiMyContabs\\Repository\\Services\\AddressService.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Title": "SpenderService.cs",
+              "DocumentMoniker": "C:\\Users\\Programador 2\\source\\repos\\WebContabs\\ApiMyContabs\\Repository\\Services\\SpenderService.cs",
+              "RelativeDocumentMoniker": "ApiMyContabs\\Repository\\Services\\SpenderService.cs",
+              "ToolTip": "C:\\Users\\Programador 2\\source\\repos\\WebContabs\\ApiMyContabs\\Repository\\Services\\SpenderService.cs",
+              "RelativeToolTip": "ApiMyContabs\\Repository\\Services\\SpenderService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAYwAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T16:34:25.507Z",
+              "WhenOpened": "2024-08-01T16:50:57.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Spender.cs",
+              "DocumentMoniker": "C:\\Users\\Programador 2\\source\\repos\\WebContabs\\ApiMyContabs\\Repository\\Entity\\Spender.cs",
+              "RelativeDocumentMoniker": "ApiMyContabs\\Repository\\Entity\\Spender.cs",
+              "ToolTip": "C:\\Users\\Programador 2\\source\\repos\\WebContabs\\ApiMyContabs\\Repository\\Entity\\Spender.cs",
+              "RelativeToolTip": "ApiMyContabs\\Repository\\Entity\\Spender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T16:50:44.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Programador 2\\source\\repos\\WebContabs\\ApiMyContabs\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ApiMyContabs\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Programador 2\\source\\repos\\WebContabs\\ApiMyContabs\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ApiMyContabs\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvwoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T16:47:21.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddressController.cs",
+              "DocumentMoniker": "C:\\Users\\Programador 2\\source\\repos\\WebContabs\\ApiMyContabs\\Controllers\\AddressController.cs",
+              "RelativeDocumentMoniker": "ApiMyContabs\\Controllers\\AddressController.cs",
+              "ToolTip": "C:\\Users\\Programador 2\\source\\repos\\WebContabs\\ApiMyContabs\\Controllers\\AddressController.cs",
+              "RelativeToolTip": "ApiMyContabs\\Controllers\\AddressController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAYwB8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T16:55:56.091Z",
               "EditorCaption": ""
             }
           ]
