@@ -1,12 +1,7 @@
-﻿using System.ComponentModel.DataAnnotations.Schema;
-using System.ComponentModel.DataAnnotations;
-
-namespace ApiMyContabs.Repository.Entity
+﻿namespace ApiMyContabs.Repository.FormModels
 {
-    [Table("t_spender")]
-    public class Spender
+    public class SpenderForm
     {
-        [Key]
         public int? Id { get; set; }
         public string? Name { get; set; }
         public string? Profile { get; set; }

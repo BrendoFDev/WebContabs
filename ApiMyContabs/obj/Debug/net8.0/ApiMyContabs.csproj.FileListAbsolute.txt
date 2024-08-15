@@ -37,14 +37,6 @@ C:\Users\Programador 2\source\repos\MYContabs\ApiMyContabs\obj\Debug\net8.0\refi
 C:\Users\Programador 2\source\repos\MYContabs\ApiMyContabs\obj\Debug\net8.0\ApiMyContabs.pdb
 C:\Users\Programador 2\source\repos\MYContabs\ApiMyContabs\obj\Debug\net8.0\ApiMyContabs.genruntimeconfig.cache
 C:\Users\Programador 2\source\repos\MYContabs\ApiMyContabs\obj\Debug\net8.0\ref\ApiMyContabs.dll
-C:\Users\draka\source\repos\WebContabs\ApiMyContabs\obj\Debug\net8.0\ApiMyContabs.csproj.AssemblyReference.cache
-C:\Users\draka\source\repos\WebContabs\ApiMyContabs\obj\Debug\net8.0\ApiMyContabs.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\draka\source\repos\WebContabs\ApiMyContabs\obj\Debug\net8.0\ApiMyContabs.AssemblyInfoInputs.cache
-C:\Users\draka\source\repos\WebContabs\ApiMyContabs\obj\Debug\net8.0\ApiMyContabs.AssemblyInfo.cs
-C:\Users\draka\source\repos\WebContabs\ApiMyContabs\obj\Debug\net8.0\ApiMyContabs.csproj.CoreCompileInputs.cache
-C:\Users\draka\source\repos\WebContabs\ApiMyContabs\obj\Debug\net8.0\ApiMyContabs.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\draka\source\repos\WebContabs\ApiMyContabs\obj\Debug\net8.0\ApiMyContabs.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\draka\source\repos\WebContabs\ApiMyContabs\obj\Debug\net8.0\ApiMyContabs.sourcelink.json
 C:\Users\draka\source\repos\WebContabs\ApiMyContabs\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\draka\source\repos\WebContabs\ApiMyContabs\bin\Debug\net8.0\appsettings.json
 C:\Users\draka\source\repos\WebContabs\ApiMyContabs\bin\Debug\net8.0\ApiMyContabs.exe
@@ -62,6 +54,14 @@ C:\Users\draka\source\repos\WebContabs\ApiMyContabs\bin\Debug\net8.0\Npgsql.Enti
 C:\Users\draka\source\repos\WebContabs\ApiMyContabs\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\draka\source\repos\WebContabs\ApiMyContabs\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\draka\source\repos\WebContabs\ApiMyContabs\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\draka\source\repos\WebContabs\ApiMyContabs\obj\Debug\net8.0\ApiMyContabs.csproj.AssemblyReference.cache
+C:\Users\draka\source\repos\WebContabs\ApiMyContabs\obj\Debug\net8.0\ApiMyContabs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\draka\source\repos\WebContabs\ApiMyContabs\obj\Debug\net8.0\ApiMyContabs.AssemblyInfoInputs.cache
+C:\Users\draka\source\repos\WebContabs\ApiMyContabs\obj\Debug\net8.0\ApiMyContabs.AssemblyInfo.cs
+C:\Users\draka\source\repos\WebContabs\ApiMyContabs\obj\Debug\net8.0\ApiMyContabs.csproj.CoreCompileInputs.cache
+C:\Users\draka\source\repos\WebContabs\ApiMyContabs\obj\Debug\net8.0\ApiMyContabs.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\draka\source\repos\WebContabs\ApiMyContabs\obj\Debug\net8.0\ApiMyContabs.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\draka\source\repos\WebContabs\ApiMyContabs\obj\Debug\net8.0\ApiMyContabs.sourcelink.json
 C:\Users\draka\source\repos\WebContabs\ApiMyContabs\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\draka\source\repos\WebContabs\ApiMyContabs\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\draka\source\repos\WebContabs\ApiMyContabs\obj\Debug\net8.0\staticwebassets\msbuild.ApiMyContabs.Microsoft.AspNetCore.StaticWebAssets.props

@@ -3,33 +3,57 @@ using Newtonsoft.Json;
 
 namespace ApiMyContabs.Repository.Services
 {
-    
+
     public class AddressService : IAddressService
     {
-        private ConnectionContext connectionContext = new ConnectionContext();
-        public string? GetAddressBySpender(int SpenderId)
+        private readonly ConnectionContext conn = new ConnectionContext();
+
+        public object? GetAddressBySpender(int SpenderId)
         {
-            var Result = connectionContext.Address.FirstOrDefault(x => x.Spender.Id == SpenderId);
-            return JsonConvert.SerializeObject(Result);
+            try
+            {
+                var Result = conn.Address.FirstOrDefault(x => x.Spender.Id == SpenderId);
+                return Result;
+            }
+            catch (Exception ex)
+            {
+                throw new Exception("Exception: " + ex.Message);
+            }
         }
 
-        public string? GetAllAddress()
+        public object GetAllAddress()
         {
-            var Result = connectionContext.Address.ToList();
-            return JsonConvert.SerializeObject(Result);
+            try
+            {
+                var Result = conn.Address.ToList();
+                return Result;
+            }
+            catch (Exception ex)
+            {
+                throw new Exception("Exception: " + ex.Message);
+            }
         }
 
-        public string? CreateAddress(Address Address)
+        public object PutAddress(string AddressJson)
         {
-            connectionContext.Add(Address);
-            return "Address Added with Sucess";
+            try
+            {
+                var NewAddress = JsonConvert.DeserializeObject<Address>(AddressJson);
+                conn.Address.Add(NewAddress);
+                conn.SaveChanges();
+                return NewAddress;
+            }
+            catch (Exception ex)
+            {
+                throw new Exception("Exception: " + ex.Message);
+            }
         }
     }
 
     public interface IAddressService
     {
-        string? GetAddressBySpender(int SpenderId);
-        string? GetAllAddress();
-        string? CreateAddress(Address Address);
+        object? GetAddressBySpender(int SpenderId);
+        object? GetAllAddress();
+        object PutAddress(string Address);
     }
 }

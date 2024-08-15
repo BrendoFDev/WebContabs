@@ -13,6 +13,8 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddTransient<IUserService, UserService>();
 builder.Services.AddTransient<IAddressService, AddressService>();
+builder.Services.AddTransient<ISpenderService, SpenderService>();
+builder.Services.AddTransient<IBankAccountService, BankAccountService>();
 
 var app = builder.Build();
 
